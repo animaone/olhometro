@@ -3,7 +3,7 @@
 // @namespace    olhometro.reduflacao
 // @version      1.0.0
 // @description  Em tempos de reduflação, alerta sobre tamanho, peso, volume, quantidade e espessura antes de você comprar.
-// @author       Seu Nome
+// @author       animaone
 // @match        *://*.shopee.com.br/*
 // @match        *://*.aliexpress.com/*
 // @grant        none

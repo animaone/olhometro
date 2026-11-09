@@ -68,6 +68,10 @@ O Olhômetro não resolve o problema do mundo. Mas impede que você esqueça de 
 
 ### 2. Instale o Olhômetro
 
+**Opção Zero - se já tem o addon de userscripts instalado**
+
+1. CLIQUE AQUI PRA INSTALAR AGORA! https://github.com/animaone/olhometro/raw/refs/heads/main/olhometro.user.js
+
 **Opção A — via arquivo `.user.js`**
 
 1. Baixe o arquivo **`olhometro.user.js`**
